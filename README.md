@@ -4,15 +4,15 @@
 
 主界面
 
-![image](https://github.com/hwaphon/Html5LocalStorage/tree/master/2.0/main.png)
+![image](https://github.com/hwaphon/Html5LocalStorage/blob/master/2.0/main.png)
 
 添加描述信息以及文本
 
-![image](https://github.com/hwaphon/Html5LocalStorage/tree/master/2.0/add.png)
+![image](https://github.com/hwaphon/Html5LocalStorage/blob/master/2.0/add.png)
 
 删除便签
 
-![image](https://github.com/hwaphon/Html5LocalStorage/tree/master/2.0/delete.png)
+![image](https://github.com/hwaphon/Html5LocalStorage/blob/master/2.0/delete.png)
 
 你也可以在线体验这个版本：[点击此处](https://hwaphon.github.io/Html5LocalStorage/2.0/index.html)
 
